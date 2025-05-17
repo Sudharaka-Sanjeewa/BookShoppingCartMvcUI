@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Customer>
+@{
+    Layout = "_AdminLayout";
+}
+
+<h2>Customer</h2>
+
+<a asp-action="AddCustomer" asp-controller="Customer" class="btn btn-primary">Add More</a>
+
+<table class="table table-striped my-2">
+    <tr>
+        <th>Email</th>
+        <th>Mobile</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var customer in Model)
+    {
+        <tr>
+            <td>@customer.Email</td>
+            <td>@customer.Mobile</td>
+            <td>
+                <a asp-action="UpdateCustomer" asp-controller="Customer" asp-route-id="@customer.Id" class="btn btn-success">Edit</a>
+                <a asp-action="DeleteCustomer" asp-controller="Customer" asp-route-id="@customer.Id" class="btn btn-danger" onclick="return window.confirm('Are you sure?')">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,27 @@
+﻿@model CustomerDTO
+@{
+    Layout = "_AdminLayout";
+}
+@* @Html.ValidationSummary() *@
+<div style="width:50%">
+    <h2> Update Customer </h2>
+    <a asp-action="Index" asp-controller="Customer" class="btn btn-primary">Back</a>
+    <form asp-action="UpdateCustomer">
+   <input type="hidden" asp-for="Id" />
+
+   <div class="my-2">
+      <label>Email</label>
+      <input type="text" class="form-control" asp-for="Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+   </div>
+        <div class="my-2">
+            <label>Mobile</label>
+            <input type="text" class="form-control" asp-for="Mobile" />
+            <span asp-validation-for="Mobile" class="text-danger"></span>
+        </div>
+
+   <div class="my-2">
+      <button type="submit" class="btn btn-info">Update</button>
+   </div>
+</form>
+</div>

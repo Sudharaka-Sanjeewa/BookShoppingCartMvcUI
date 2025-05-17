@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.8rg4aggt9l.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\0eff1618-6b7f-4ed4-befc-5373979a849a.jpg",
+      "PackagePath": "staticwebassets\\images\\0eff1618-6b7f-4ed4-befc-5373979a849a.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\39c6843c-0a28-484d-bb7b-9192511709d6.jpg",
+      "PackagePath": "staticwebassets\\images\\39c6843c-0a28-484d-bb7b-9192511709d6.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\3f891c9b-d658-4157-8580-0c93b05b2aa7.jpg",
+      "PackagePath": "staticwebassets\\images\\3f891c9b-d658-4157-8580-0c93b05b2aa7.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\47c84bc4-95ae-481f-8fd6-ce52dc4068f4.jpg",
+      "PackagePath": "staticwebassets\\images\\47c84bc4-95ae-481f-8fd6-ce52dc4068f4.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\489ced47-0d2e-4dd6-8b66-6b5da9a38be0.jpg",
+      "PackagePath": "staticwebassets\\images\\489ced47-0d2e-4dd6-8b66-6b5da9a38be0.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\584e8e82-e704-4c06-b732-446bec9909c0.jpg",
+      "PackagePath": "staticwebassets\\images\\584e8e82-e704-4c06-b732-446bec9909c0.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\5ce54b97-6c08-4590-8f88-5b057e926edb.jpg",
+      "PackagePath": "staticwebassets\\images\\5ce54b97-6c08-4590-8f88-5b057e926edb.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\5ece199a-57dc-42ff-a59d-73a08618fcbf.jpg",
+      "PackagePath": "staticwebassets\\images\\5ece199a-57dc-42ff-a59d-73a08618fcbf.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\5f5d830c-fe38-49fa-bb2e-c7312bf0a7cf.jpg",
+      "PackagePath": "staticwebassets\\images\\5f5d830c-fe38-49fa-bb2e-c7312bf0a7cf.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\7bff2695-2882-4054-b4be-753e3c22b2d1.jpg",
+      "PackagePath": "staticwebassets\\images\\7bff2695-2882-4054-b4be-753e3c22b2d1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\864d07a5-02d6-44fe-bfa9-c57d74e40eed.jpg",
+      "PackagePath": "staticwebassets\\images\\864d07a5-02d6-44fe-bfa9-c57d74e40eed.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\8bd8ce07-67e0-4e79-946a-cb448d14d766.jpg",
+      "PackagePath": "staticwebassets\\images\\8bd8ce07-67e0-4e79-946a-cb448d14d766.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\90a9f764-1849-4c9a-9100-1fb87349e5fe.jpg",
+      "PackagePath": "staticwebassets\\images\\90a9f764-1849-4c9a-9100-1fb87349e5fe.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\9aa4c375-66c2-418e-9fa7-db9e1205a0c9.jpg",
+      "PackagePath": "staticwebassets\\images\\9aa4c375-66c2-418e-9fa7-db9e1205a0c9.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\a3480043-62f0-4376-9964-5ed7b099b3f0.jpg",
+      "PackagePath": "staticwebassets\\images\\a3480043-62f0-4376-9964-5ed7b099b3f0.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\af30b284-0150-4451-9e28-16f34254071d.jpg",
+      "PackagePath": "staticwebassets\\images\\af30b284-0150-4451-9e28-16f34254071d.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\b59c7872-212b-43d5-9fd2-623b338b9810.jpg",
+      "PackagePath": "staticwebassets\\images\\b59c7872-212b-43d5-9fd2-623b338b9810.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\b7014de0-6631-46d3-aad5-ebb0f069dc16.jpg",
+      "PackagePath": "staticwebassets\\images\\b7014de0-6631-46d3-aad5-ebb0f069dc16.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\c57e5c5f-1d0d-4622-9707-a7104d3b5426.jpg",
+      "PackagePath": "staticwebassets\\images\\c57e5c5f-1d0d-4622-9707-a7104d3b5426.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\e153b8fb-ea36-4bae-b8fe-535e72815e95.jpg",
+      "PackagePath": "staticwebassets\\images\\e153b8fb-ea36-4bae-b8fe-535e72815e95.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Sudara Kaluthanthri\\Documents\\Visual Studio 2022\\Projects\\BookShoppingCart-Mvc-master\\BookShoppingCartMvcUI\\wwwroot\\images\\hobbit.jfif",
+      "PackagePath": "staticwebassets\\images\\hobbit.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookShoppingCartMvcUI.props",
+      "PackagePath": "build\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
